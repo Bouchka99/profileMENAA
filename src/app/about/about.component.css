@@ -1,0 +1,20 @@
+.example-card {
+    width: 1000px;
+    margin-left: 250px;
+    margin-bottom: 500px;
+}
+
+.container {
+    background-color: rgb(227, 227, 227);
+    box-shadow: 2px;
+}
+
+i {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.p-3 {
+    margin: 20px;
+    padding: 20px;
+}

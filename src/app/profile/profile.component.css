@@ -1,0 +1,11 @@
+.example-card {
+    width: 1000px;
+    margin-left: 250px;
+    margin-bottom: 500px;
+}
+
+img {
+    width: 250px;
+    height: 700px;
+    margin: 50px;
+}
